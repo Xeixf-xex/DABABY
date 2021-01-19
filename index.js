@@ -883,7 +883,7 @@ express.get("/account/api/oauth/verify", async (req, res) => {
 
 express.post("/datarouter/api/v1/public/data", async (req, res) => {
 	res.json();
-	res.status(200);
+	res.status(204);
 	res.end();
 })
 
