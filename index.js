@@ -11,7 +11,7 @@ express.use(bodyparser.json());
 express.use(bodyparser.urlencoded({extended:true}));
 express.use(Express.static('public'));
 
-const port = process.env.PORT || 80;
+const port = process.env.PORT || 3551;
 express.listen(port, console.log("Started listening on port", port));
 
 express.get("/", async (req, res) => {
