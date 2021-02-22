@@ -10,7 +10,7 @@
         "message": {
           "_type": "CommonUI Simple Message Base",
           "title": "DX SERVER",
-          "body": "Join our discord: https://discord.gg/X4VcCuybqq\nPlease Subscribe To Xoid http://www.youtube.com/channel/UC7GGxNWeU_J_MBKbGQPIKwg\n Developers:\n𝓧𝓸𝓲𝓭 𝓟𝓵𝓪𝔂𝓼 𝓨𝓣#3692\nItz.Darkness#1192\nxeixf#0700"
+          "body": "Join our discord: https://discord.gg/X4VcCuybqq\nPlease Subscribe To Xoid https://www.youtube.com/c/XoidPlays\n Developers:\nXoid Plays\nItz.Darkness#1192\nxeixf#0700"
         }
       },
       "_activeDate": "2017-07-19T13:14:04.490Z",
@@ -67,7 +67,7 @@
           "hidden": false,
           "messagetype": "normal",
           "_type": "CommonUI Simple Message Base",
-          "title": "Xex Server",
+          "title": "DX Server",
           "body": "1 Person Lobby",
           "spotlight": false
         }
@@ -114,7 +114,7 @@
             "spotlight": false
           },
           {
-            "image": "https://cdn.discordapp.com/attachments/806302622784553034/813475413216067604/Dx2.png",
+            "image": "https://cdn.discordapp.com/attachments/812772554010787870/813502062347944016/Dx2_1.png",
             "hidden": false,
             "_type": "CommonUI Simple Message Base",
             "adspace": "Enjoy Your Favourite Seasons",
@@ -5711,7 +5711,7 @@
         "description": "Lobby Only Experience But With All Skins",
         "subgame": "battleroyale",
         "standardMessageLine2": "",
-        "title": "Xex Server",
+        "title": "DX Server",
         "standardMessageLine1": ""
       },
       "savetheworld": {
@@ -5776,7 +5776,7 @@
             "spotlight": false
           },
           {
-            "image": "https://cdn.discordapp.com/attachments/806302622784553034/813475413216067604/Dx2.png",
+            "image": "https://cdn.discordapp.com/attachments/812772554010787870/813502062347944016/Dx2_1.png",
             "hidden": false,
             "_type": "CommonUI Simple Message Base",
             "adspace": "Enjoy Your Favourite Seasons",
@@ -5831,7 +5831,7 @@
             "spotlight": false
           },
           {
-            "image": "https://cdn.discordapp.com/attachments/806302622784553034/813475413216067604/Dx2.png",
+            "image": "https://cdn.discordapp.com/attachments/812772554010787870/813502062347944016/Dx2_1.png",
             "hidden": false,
             "_type": "CommonUI Simple Message Base",
             "adspace": "Enjoy Your Favourite Seasons",
