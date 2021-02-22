@@ -170,9 +170,9 @@
       "_locale": "en-US"
     },
     "playlistinformation": {
-      "frontend_matchmaking_header_style": "XexServer",
+      "frontend_matchmaking_header_style": "DXServer",
       "_title": "playlistinformation",
-      "frontend_matchmaking_header_text": "Xex",
+      "frontend_matchmaking_header_text": "DX",
       "playlist_info": {
         "_type": "Playlist Information",
         "playlists": [
@@ -265,7 +265,7 @@
           {
             "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/v94/10CM_LTM_KnockTown_Playlist-1024x512-72e32b88b332b4d3ee3ee5255eff9522b660485c.jpg",
             "playlist_name": "Playlist_Creative_KaleTofu",
-            "violator": "Xex",
+            "violator": "DX",
             "_type": "FortPlaylistInfo"
           },
           {
@@ -1124,8 +1124,8 @@
             "hidden": false,
             "_type": "CommonUI Simple Message Base",
             "subgame": "br",
-            "title": "XexServer",
-            "body": "XexServer was created by Xeixf (TikTok: @Xeixf) \nDiscord: https://discord.gg/tMzK2uG2Tx",
+            "title": "DXServer",
+            "body": "DXServer was created by Xeixf (TikTok: @Xeixf) \nDiscord: https://discord.gg/tMzK2uG2Tx",
             "spotlight": true
           }
         ],
@@ -1137,8 +1137,8 @@
               "hidden": false,
               "_type": "CommonUI Simple Message Base",
               "subgame": "br",
-              "title": "XexServer",
-              "body": "XexServer was created by Xeixf (TikTok: @Xeixf) \nDiscord: https://discord.gg/tMzK2uG2Tx",
+              "title": "DXServer",
+              "body": "DXServer was created by Xeixf (TikTok: @Xeixf) \nDiscord: https://discord.gg/tMzK2uG2Tx",
               "spotlight": true
             }
           }
