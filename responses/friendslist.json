@@ -6,13 +6,6 @@
   "favorite" : false
   },
   {
-  "accountId" : "LOL
-  "status" : "ACCEPTED",
-  "direction" : "OUTBOUND",
-  "created" : "2000-04-08T12:32:42.069Z",
-  "favorite" : false
-  },
-  {
   "accountId" : "Aeriel",
   "status" : "ACCEPTED",
   "direction" : "OUTBOUND",
@@ -21,13 +14,6 @@
   },
   {
   "accountId" : "DHyper",
-  "status" : "ACCEPTED",
-  "direction" : "OUTBOUND",
-  "created" : "2000-04-08T12:32:42.069Z",
-  "favorite" : false
-  },
-  {
-  "accountId" : "Myth",
   "status" : "ACCEPTED",
   "direction" : "OUTBOUND",
   "created" : "2000-04-08T12:32:42.069Z",
