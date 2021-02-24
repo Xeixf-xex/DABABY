@@ -46,20 +46,20 @@
       "created": "2000-04-08T12:32:42.069Z"
     },
     {
-      "accountId": "Itz.Darkness",
+      "accountId": "Dakotaz",
       "groups": [],
-      "mutual": 1,
+      "mutual": 0,
       "alias": "",
-      "note": "Kool",
+      "note": "",
       "favorite": false,
       "created": "2000-04-08T12:32:42.069Z"
     },
     {
-      "accountId": "XoidPlays",
+      "accountId": "Myth",
       "groups": [],
-      "mutual": 1,
+      "mutual": 0,
       "alias": "",
-      "note": "Kool",
+      "note": "",
       "favorite": false,
       "created": "2000-04-08T12:32:42.069Z"
     }
@@ -72,7 +72,7 @@
   ],
   "outgoing": [
     {
-      "accountId": "Xeixf",
+      "accountId": "PokiMane",
       "favorite": false
     }
   ],
