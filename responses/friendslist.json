@@ -1,33 +1,19 @@
 [ {
-  "accountId" : "SubtoXeixf",
-  "status" : "ACCEPTED",
-  "direction" : "OUTBOUND",
-  "created" : "2016-05-11T15:53:53.072Z",
-  "favorite" : false
-  },
-  {
-  "accountId" : "FollowXeixf_OnTIKTOK",
+  "accountId" : "SubtoXoid
   "status" : "ACCEPTED",
   "direction" : "OUTBOUND",
   "created" : "2000-04-08T12:32:42.069Z",
   "favorite" : false
   },
   {
-  "accountId" : "Ninja",
+  "accountId" : "LOL
   "status" : "ACCEPTED",
   "direction" : "OUTBOUND",
   "created" : "2000-04-08T12:32:42.069Z",
   "favorite" : false
   },
   {
-  "accountId" : "Tfue",
-  "status" : "ACCEPTED",
-  "direction" : "OUTBOUND",
-  "created" : "2000-04-08T12:32:42.069Z",
-  "favorite" : false
-  },
-  {
-  "accountId" : "Aeriel ❤",
+  "accountId" : "Aeriel",
   "status" : "ACCEPTED",
   "direction" : "OUTBOUND",
   "created" : "2000-04-08T12:32:42.069Z",
@@ -49,13 +35,6 @@
   },
   {
   "accountId" : "itspaul",
-  "status" : "ACCEPTED",
-  "direction" : "OUTBOUND",
-  "created" : "2000-04-08T12:32:42.069Z",
-  "favorite" : false
-  },
-  {
-  "accountId" : "SypherPK",
   "status" : "ACCEPTED",
   "direction" : "OUTBOUND",
   "created" : "2000-04-08T12:32:42.069Z",
